@@ -4,4 +4,4 @@ module:
 - game.py
 - game2.py
 
-![Uploading 9E7D9364-F87F-4349-80C4-19B036EF0528.jpeg…]()
+![Map of Buiding](https://user-images.githubusercontent.com/91616572/161356290-ccdce40c-bb72-499e-9960-3454cd674582.jpeg)
