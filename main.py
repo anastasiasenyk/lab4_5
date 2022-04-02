@@ -1,3 +1,4 @@
+"""main module"""
 import game
 
 kitchen = game.Room("Kitchen")
